@@ -6,7 +6,7 @@ Welcome to My Portfolio!
 Projects: Dive into a curated selection of my work, featuring [types of projects or specific skills].
 
 🎨 Skills & Technologies
-Iim specializde in:
+I'm specialized in:
 
 Python
 
